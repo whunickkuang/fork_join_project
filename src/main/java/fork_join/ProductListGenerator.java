@@ -7,11 +7,6 @@ package fork_join;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * generate a list of random products
- * @author bird
- * 2014年10月7日 下午11:24:47
- */
 public class ProductListGenerator {
 
     public List<Product> generate(int size) {
